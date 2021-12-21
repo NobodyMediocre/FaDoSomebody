@@ -1,15 +1,10 @@
-<h1 align="center">My name's Antonio, pleasure!</h1>
+## Hi, i'm antonio, pleasure!
 
-I'm 16
+### I'm 16
 
-Learning game dev languages
+### Learning game dev languages
 
-
-
-<p align="center">Skills (or almost this)</p>
-<img src=https://activationkeys.info/wp-content/uploads/2019/06/gms2_logo_512.png>
-
-
-
-
-
+<div align='center' >
+  <h3> Skills (or almost this) </h3>
+  <img align="center" height="30" title='GML' width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhaiCQO6TA7BDZ6YaCp9KBA8ELP-e65MSBGg9PORQUjWjdzha_RyhG52vdl8smwKO3cw&usqp=CAU">
+</div>
